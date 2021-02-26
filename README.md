@@ -16,3 +16,5 @@ Si BP2 est actionné on retourne prioritairement à l’état [Leds éteintes].
 
 ### organigramme
 ![organigramme ](https://i.pinimg.com/originals/60/5e/b9/605eb90b2e6eca6e893939eccf752ad7.png ) 
+### Programme en C 
+voir fichier **main.c**
